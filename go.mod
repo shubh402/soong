@@ -1,6 +1,6 @@
 module android/soong
 
-require google.golang.org/protobuf v1.29.1
+require google.golang.org/protobuf v1.33.0
 
 require github.com/google/blueprint v0.0.0
 
